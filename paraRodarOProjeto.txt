@@ -1,0 +1,2 @@
+Para rodar o projeto você precisa ir no arquivo persistence.xml, criar um database com o nome lojaBase, o User deve ser "postgres" e a senha tem que ser "root"
+No arquivo production.prop você deve colocar o caminho de uma pasta criada em usuarios chamada anexos, e criar um imagens dentro dela. Depois é somente alterar os caminhos dos diretórios 
